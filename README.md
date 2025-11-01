@@ -2,7 +2,16 @@
 
 ## 📌 Overview
 This project analyzes customer purchasing behavior using Python, SQL, and Power BI.  
-The objective is to uncover insights into spending patterns, demographics, product preferences, subscription impact, and shipping behavior to support data-driven decisions.
+The objective is to uncover insights into spending patterns, demographics, product preferences, subscription impact, and shipping behavior to support data-driven decisions and translate raw data into strategic business intelligence by:
+
+✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+
+✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+
+✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+
+✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+
 
 ---
 
@@ -18,9 +27,15 @@ The objective is to uncover insights into spending patterns, demographics, produ
 - 🚚 Shipping preferences  
 - 🎟️ Discounts & promo behavior  
 
-> Source: Provided CSV dataset
+> Source: [customer_shopping_behavior.csv](data/customer_shopping_behavior.csv)
 
 ---
+## 🛠️ **Clone the repository**
+
+   ```bash
+   git clone https://github.com/Mahesh77300/Customer-Shopping-Behavior-Analysis.git
+   cd Customer-Shopping-Behavior-Analysis
+   ```
 
 ## 🧰 Tools & Technologies
 
@@ -35,7 +50,9 @@ The objective is to uncover insights into spending patterns, demographics, produ
 
 
 ## 🏗️ Architecture Diagram
+
 ![alt text](assets/Architecture.png)
+
 
 
 ---
@@ -76,7 +93,11 @@ Key visuals:
 ![alt text](assets/Dashboard.png)
 
 
+<br>
+<br>
+<br>
 
+📊 Power BI Dashboard Link : [Dashboard Link](https://github.com/Mahesh77300/Customer-Shopping-Behavior-Analysis/blob/main/powerbi/Customer%20Shopping%20Behavior%20Dashboard.pbix)
 
 
 
@@ -97,3 +118,10 @@ Key visuals:
 ### 🎤 Presentation
 
 📎 Gamma PPT Link: [Gamma PPT Access](https://gamma.app/docs/Customer-Shopping-Behavior-Analysis-lx8fmq5kemthmje?mode=doc)
+
+<br>
+
+## 👨‍💻 Author
+
+Mahesh Krishna Bandla – [LinkedIn](https://www.linkedin.com/in/mahesh-krishna-bandla-219b3a186/) | [GitHub](https://github.com/Mahesh77300)
+
